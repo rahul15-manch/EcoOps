@@ -5,7 +5,7 @@
 ## 🚀 Features:
 - ⚡ Monitors electricity, water & transport usage  
 - ♻️ Suggests eco-friendly alternatives automatically  
-- 📊 Generates sustainability reports (PDF/Excel)  
+- 📊 Generates sustainability reports (PDF/Excel)  can be downloaded easily
 - 🌱 Connects with green vendors (tree plantation, renewable credits)  
 - ✅ Hands-free ESG compliance  
 
